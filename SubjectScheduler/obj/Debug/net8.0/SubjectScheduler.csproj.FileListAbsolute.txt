@@ -1,0 +1,5 @@
+C:\Users\Lenovo ideapad\source\repos\SubjectScheduler\SubjectScheduler\obj\Debug\net8.0\SubjectScheduler.csproj.AssemblyReference.cache
+C:\Users\Lenovo ideapad\source\repos\SubjectScheduler\SubjectScheduler\obj\Debug\net8.0\SubjectScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo ideapad\source\repos\SubjectScheduler\SubjectScheduler\obj\Debug\net8.0\SubjectScheduler.AssemblyInfoInputs.cache
+C:\Users\Lenovo ideapad\source\repos\SubjectScheduler\SubjectScheduler\obj\Debug\net8.0\SubjectScheduler.AssemblyInfo.cs
+C:\Users\Lenovo ideapad\source\repos\SubjectScheduler\SubjectScheduler\obj\Debug\net8.0\SubjectScheduler.csproj.CoreCompileInputs.cache

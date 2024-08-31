@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|c:\\users\\lenovo ideapad\\source\\repos\\subjectscheduler\\subjectscheduler\\scheduler\\scheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|solutionrelative:subjectscheduler\\scheduler\\scheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|c:\\users\\lenovo ideapad\\source\\repos\\subjectscheduler\\subjectscheduler\\codefirst\\context\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|solutionrelative:subjectscheduler\\codefirst\\context\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|c:\\users\\lenovo ideapad\\source\\repos\\subjectscheduler\\subjectscheduler\\codefirst\\entity\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|solutionrelative:subjectscheduler\\codefirst\\entity\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|c:\\users\\lenovo ideapad\\source\\repos\\subjectscheduler\\subjectscheduler\\codefirst\\entity\\model\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|solutionrelative:subjectscheduler\\codefirst\\entity\\model\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|c:\\users\\lenovo ideapad\\source\\repos\\subjectscheduler\\subjectscheduler\\codefirst\\entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|solutionrelative:subjectscheduler\\codefirst\\entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|c:\\users\\lenovo ideapad\\source\\repos\\subjectscheduler\\subjectscheduler\\codefirst\\entity\\model\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|solutionrelative:subjectscheduler\\codefirst\\entity\\model\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|c:\\users\\lenovo ideapad\\source\\repos\\subjectscheduler\\subjectscheduler\\codefirst\\entity\\model\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|solutionrelative:subjectscheduler\\codefirst\\entity\\model\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|c:\\users\\lenovo ideapad\\source\\repos\\subjectscheduler\\subjectscheduler\\codefirst\\entity\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|solutionrelative:subjectscheduler\\codefirst\\entity\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|c:\\users\\lenovo ideapad\\source\\repos\\subjectscheduler\\subjectscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A60FA-4E76-443C-B33F-D2415129BEC0}|SubjectScheduler\\SubjectScheduler.csproj|solutionrelative:subjectscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scheduler.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\Scheduler\\Scheduler.cs",
+              "RelativeDocumentMoniker": "SubjectScheduler\\Scheduler\\Scheduler.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\Scheduler\\Scheduler.cs",
+              "RelativeToolTip": "SubjectScheduler\\Scheduler\\Scheduler.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:30:51.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniversityContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\CodeFirst\\Context\\UniversityContext.cs",
+              "RelativeDocumentMoniker": "SubjectScheduler\\CodeFirst\\Context\\UniversityContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\CodeFirst\\Context\\UniversityContext.cs",
+              "RelativeToolTip": "SubjectScheduler\\CodeFirst\\Context\\UniversityContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:22:10.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Availability.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\CodeFirst\\Entity\\Model\\Availability.cs",
+              "RelativeDocumentMoniker": "SubjectScheduler\\CodeFirst\\Entity\\Model\\Availability.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\CodeFirst\\Entity\\Model\\Availability.cs",
+              "RelativeToolTip": "SubjectScheduler\\CodeFirst\\Entity\\Model\\Availability.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:18:13.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\CodeFirst\\Entity\\Model\\Subject.cs",
+              "RelativeDocumentMoniker": "SubjectScheduler\\CodeFirst\\Entity\\Model\\Subject.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\CodeFirst\\Entity\\Model\\Subject.cs",
+              "RelativeToolTip": "SubjectScheduler\\CodeFirst\\Entity\\Model\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:12:29.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shift.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\CodeFirst\\Entity\\Model\\Shift.cs",
+              "RelativeDocumentMoniker": "SubjectScheduler\\CodeFirst\\Entity\\Model\\Shift.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\CodeFirst\\Entity\\Model\\Shift.cs",
+              "RelativeToolTip": "SubjectScheduler\\CodeFirst\\Entity\\Model\\Shift.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:11:17.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\CodeFirst\\Entity\\Room.cs",
+              "RelativeDocumentMoniker": "SubjectScheduler\\CodeFirst\\Entity\\Room.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\CodeFirst\\Entity\\Room.cs",
+              "RelativeToolTip": "SubjectScheduler\\CodeFirst\\Entity\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:09:01.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\CodeFirst\\Entity\\Teacher.cs",
+              "RelativeDocumentMoniker": "SubjectScheduler\\CodeFirst\\Entity\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\CodeFirst\\Entity\\Teacher.cs",
+              "RelativeToolTip": "SubjectScheduler\\CodeFirst\\Entity\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:08:30.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Groups.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\CodeFirst\\Entity\\Groups.cs",
+              "RelativeDocumentMoniker": "SubjectScheduler\\CodeFirst\\Entity\\Groups.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\CodeFirst\\Entity\\Groups.cs",
+              "RelativeToolTip": "SubjectScheduler\\CodeFirst\\Entity\\Groups.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:07:40.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\Program.cs",
+              "RelativeDocumentMoniker": "SubjectScheduler\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo ideapad\\source\\repos\\SubjectScheduler\\SubjectScheduler\\Program.cs",
+              "RelativeToolTip": "SubjectScheduler\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T15:03:19.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
